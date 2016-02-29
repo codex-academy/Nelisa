@@ -5,7 +5,7 @@ title: Process the data
 
 # Process the data
 
-> Nelisa got some weekly records of her sales.
+> Nelisa got some weekly records of her sales. She would like to analyze the data to understand her business a bit better.
 
 She would like to use this data to determine:
 
@@ -22,7 +22,7 @@ She would also like to calculate:
 
 Print the results to the screen in a format that can easily be sms'ed to her.
 
-## Learning areas:
+##  Learning areas:
 
 * Data processing algorithms
     * Grouping data
