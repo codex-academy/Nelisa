@@ -5,18 +5,12 @@ title: Display the data
 
 # Display the data
 
-> Nelisa needs the sales data in her inbox
+> Nelisa wants a comprehensive weekly online sales report.
 
-How to get data online
+Publish the sales report online using **GitHub Pages**
 
-* GitHub Pages - Static HTML
+Create HTML reports using [Handlebars]() templates to convert the data into html files which can be published online.
 
-Getting the on the go
+# Learning areas:
 
-* Templates
-* Email
-
-## Learning areas:
-
-* Templating using handlebars
-* How to send emails using nodemailer
+* templating using handlebars    
