@@ -23,16 +23,14 @@ She would also like to calculate:
 
 Write a program that reads the files for each week and print the results to the screen in a format that can easily be sms'ed to her.
 
-## Remember:
+## Remember to:
 
-* write unit tests using mocha
-* modularize your code
-* write a small functions that do one thing.
+* write unit tests using mocha;
+* modularize your code;
+* small focussed functions.
 
 ##  Learning areas:
 
 * Data processing algorithms
     * Grouping data
     * Filtering data
-
-* How to send emails using nodemailer
