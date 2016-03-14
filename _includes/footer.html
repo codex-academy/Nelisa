@@ -1,14 +1,29 @@
 <footer class="site-footer">
   <nav class="main-nav" id="menu">
-    <ol>
-      {% assign currentpage = page.url %}
-      {% for page in site.pages %}
-        {% unless page.url contains ".css" %}
-          <li>
-            <a href="{{ site.baseurl }}{{ page.url }}" {% if currentpage == page.url %}class = "active"{% endif %}>{{ page.title }}</a>
-          </li>
-        {% endunless %}
-      {% endfor %}
-    </ol>
+    <ul>
+        <li>
+          <a href="{{ site.baseurl }}index.html" {% if currentpage == page.url %}class = "active"{% endif %}>Narrative</a>
+          <ol>
+              <li>
+                  <a href="{{ site.baseurl }}Persona_Nelisa.html" {% if currentpage == page.url %}class = "active"{% endif %}>Nelisa</a>
+              </li>
+              <li>
+                  <a href="{{ site.baseurl }}Persona_Xolani.html" {% if currentpage == page.url %}class = "active"{% endif %}>Xolani</a>
+              </li>
+              <li>
+                  <a href="{{ site.baseurl }}Persona_Nthabiseng.html" {% if currentpage == page.url %}class = "active"{% endif %}>Nthabiseng</a>
+              </li>
+          </ol>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}1_Process_the_data.html" {% if currentpage == page.url %}class = "active"{% endif %}>Process the data</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}2_Display_the_data.html" {% if currentpage == page.url %}class = "active"{% endif %}>Display the data</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}3_Display_data_from_file_online.html" {% if currentpage == page.url %}class = "active"{% endif %}>Display weekly data</a>
+        </li>
+    </ul>
   </nav>
 </footer>

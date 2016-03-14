@@ -18,5 +18,6 @@ Add support for showing the Products, Categories, Sales and Purchases in the dat
 * create tables and relationships using a script files
 * display data on a screen from a Database using Express JS
 
-Modules to install:
+# Modules to install:
+
 * mysql - to access mysql from nodejs

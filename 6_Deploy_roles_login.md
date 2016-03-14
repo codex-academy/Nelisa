@@ -10,5 +10,5 @@ title: Deployment, roles and login
 # Learning areas:
 
 * custom middleware - to check roles and if a user is logged in
-* [Http Session](#) to store logged in username & role
+* [http-session](#) to store logged in username & role
 * [bcrypt](#) to encrypt user passwords
