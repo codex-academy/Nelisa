@@ -23,13 +23,22 @@ She would also like to calculate:
 
 Write a program that reads the files for each week and print the results to the screen in a format that can easily be sms'ed to her.
 
-## Remember to:
+## Here's the data
+
+* [week1](/csv-files/week1.csv)
+* [week2](/csv-files/week2.csv)
+* [week3](/csv-files/week3.csv)
+* [week4](/csv-files/week4.csv)
+* [purchases](/csv-files/purchases.csv)
+
+
+## Remember to
 
 * write unit tests using mocha;
 * modularize your code;
 * small focussed functions.
 
-##  Learning areas:
+##  Learning areas
 
 * Data processing algorithms
     * Grouping data
