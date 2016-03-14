@@ -5,7 +5,7 @@ title: Process the data
 
 # Process the data
 
-> Nelisa got some weekly records of her sales. She would like to analyze the data to understand her business better.
+> Nelisa has some weekly records of her sales. She would like to analyze the data to understand her business better.
 
 Nelisa would like to use this data to determine:
 
