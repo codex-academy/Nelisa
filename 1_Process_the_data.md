@@ -30,8 +30,6 @@ Write a program that reads the files for each week and print the results to the 
 * [week3](/csv-files/week3.csv)
 * [week4](/csv-files/week4.csv)
 * [purchases](/csv-files/purchases.csv)
-* [categories](/csv-files/categories.csv)
-
 
 ## Remember to
 
