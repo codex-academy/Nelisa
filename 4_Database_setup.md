@@ -11,6 +11,8 @@ Create a database for Nelisa to store Products, Categories, Sales and Purchases.
 
 Add support for showing the Products, Categories, Sales and Purchases in the database on the screen.
 
+Import weekly sales & purchases files into the database.
+
 # Learning areas:
 
 * setup MySQL
@@ -18,6 +20,9 @@ Add support for showing the Products, Categories, Sales and Purchases in the dat
 * create tables and relationships using a script files
 * display data on a screen from a Database using Express JS
 
+Read more about databases [here](http://database.projectcodex.co)
+
 # Modules to install:
 
-* mysql - to access mysql from nodejs
+* Node module for [mysql](https://www.npmjs.com/package/mysql) - to access mysql from nodejs
+* Find years

@@ -13,6 +13,6 @@ Create a web application with a route like `/sales/:week_name` to display sales 
 
 # Learning areas:
 
-* Express JS basics
-* Creating routes in Express
+* [Express JS basics](http://expressjs.projectcodex.co)
+* Creating [routes](http://expressjs.projectcodex.co/steps/routes.html) in Express
 * reusing existing modules
