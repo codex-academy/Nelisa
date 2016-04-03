@@ -31,7 +31,6 @@ Write a program that reads the files for each week and print the results to the 
 * [week4](/csv-files/week4.csv)
 * [purchases](/csv-files/purchases.csv)
 
-
 ## Remember to
 
 * write unit tests using mocha;
