@@ -5,7 +5,7 @@ title: Display Data
 
 # Deploy online 201
 
-> Nelisa still wants to see her statistics on a web page from here smartphone. Yes things are more complicated as we need a database for our application.
+> Nelisa still wants to see her statistics on a web page from here smartphone. Yes things are more complicated as the need a database for the application.
 
 Deploy your Express application to a [Digital Ocean](https://www.digitalocean.com) VPS (Virtual Private Server), they have [very good tutorials](https://www.digitalocean.com/community/tutorials).
 

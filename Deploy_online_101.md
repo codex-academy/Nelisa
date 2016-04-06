@@ -7,4 +7,8 @@ title: Display Data
 
 > Nelisa wants to see her statistics on a web page from here smartphone.
 
-Deploy your Express application to [Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
+Deploy your Express application online using [Heroku](https://devcenter.heroku.com/articles/deploying-nodejs).
+
+# Learning areas:
+
+* Web application deployment using [Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
