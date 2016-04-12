@@ -7,9 +7,9 @@ title: Xolani
 
 ![](./images/PersonaXolani.png){: style="float:right; padding: 10px;"}
 
-Works at Nelisa’s Cash Store
+## Works at Nelisa’s Cash Store
 
-He is [Nelisa](/Persona_Nelisa.html)’s son and Ayanda’s father. A big soccer fan, sometimes plays on Saturdays.
+### [Nelisa](/Persona_Nelisa.html)’s son and Ayanda’s father. A big soccer fan, sometimes plays on Saturdays.
 
 Xolani used to have casual work as a packer, but nothing permanent. He started helping Nelisa out while he was unemployed, and it’s unofficially turned into a full time thing.
 He’s usually there from 7am to 8pm during the week. He doesn’t like to be there too late, so he closes the shop around 7pm after most of the commuters are back. Then he does the shop admin before he leaves: packs up stock, adds up the sales for the day and makes a list of items they need to buy.

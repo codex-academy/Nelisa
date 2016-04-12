@@ -7,8 +7,8 @@ title: Search and filter
 
 > Nelisa needs to find sales data statistics quickly.
 
-# Learning areas:
+# Learning areas
 
-* partial string database searched using `like` sql query
-* http request parameters using `req.params` - dynamic data in roots
-* introduction to ajax for a dynamic search experience
+* partial string database searching using `like` sql query;
+* using HTTP request parameters using `req.params` - dynamic data in roots;
+* introduction to using Ajax for a dynamic search experience.
