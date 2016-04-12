@@ -5,16 +5,16 @@ title: Create, read, update & delete database basics
 
 # Web application basics
 
-> Nelisa needs data to be managed online with Sales and Purchase data easily captured online
+> Nelisa needs data to be managed online with Sales and Purchase data easily captured online.
 
  Add support to Add, Delete and Update records for Products, Categories, Sales and Purchases in the database.
 
-# Learning areas:
+# Learning areas
 
-* use html forms
-* store data submitted via a html form data in the database
-* learn about `request` and `response` http objects.
+* using HTML forms;
+* storing data submitted via an HTML form in the database;
+* learning about `request` and `response` HTTP objects.
 
-# Modules to install:
+# Modules to install
 
-* [body-parser](https://www.npmjs.com/package/body-parser) - making `req.body` work
+* [body-parser](https://www.npmjs.com/package/body-parser): making `req.body` work.

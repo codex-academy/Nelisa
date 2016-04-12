@@ -35,7 +35,7 @@ Write a program that reads the files for each week and print the results to the 
 
 * write unit tests using mocha;
 * modularize your code;
-* small focussed functions.
+* write small focussed functions.
 
 ##  Learning areas
 

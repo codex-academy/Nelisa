@@ -7,7 +7,7 @@ title: Nthabiseng
 
 ![](./images/PersonaNthabiseng.png){: style="float:right; padding: 10px;"}
 
-Customer of Nelisa’s Cash Store
+## Customer of Nelisa’s Cash Store
 
 Nthabiseng moved to Cape Town 2 years ago with her boyfriend, and decided to stay when the relationship ended. She now lives with her cousin in Khayelitsha. She works as an Admin Assistant at a second hand furniture store in Woodstock, and commutes to work by train.
 
