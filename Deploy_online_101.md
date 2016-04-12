@@ -9,6 +9,6 @@ title: Display Data
 
 Deploy your Express application online using [Heroku](https://devcenter.heroku.com/articles/deploying-nodejs).
 
-# Learning areas:
+# Learning areas
 
-* Web application deployment using [Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
+* Web application deployment using [Heroku](https://devcenter.heroku.com/articles/deploying-nodejs).

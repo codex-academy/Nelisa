@@ -2,52 +2,49 @@
   <nav class="main-nav" id="menu">
     <ul>
         <li>
-          <a href="{{ site.baseurl }}index.html" {% if currentpage == page.url %}class = "active"{% endif %}>Narrative</a>
+          <a href="{{ site.baseurl }}index.html" {% if page.url == "/" %}class = "active"{% endif %}>Narrative</a>
           <ul>
               <li>
-                  <a href="{{ site.baseurl }}Persona_Nelisa.html" {% if currentpage == page.url %}class = "active"{% endif %}>Nelisa</a>
+                  <a href="{{ site.baseurl }}Persona_Nelisa.html" {% if page.url == "/Persona_Nelisa.html" %}class = "active"{% endif %}>Nelisa</a>
               </li>
               <li>
-                  <a href="{{ site.baseurl }}Persona_Xolani.html" {% if currentpage == page.url %}class = "active"{% endif %}>Xolani</a>
+                  <a href="{{ site.baseurl }}Persona_Xolani.html" {% if page.url == "/Persona_Xolani.html" %}class = "active"{% endif %}>Xolani</a>
               </li>
               <li>
-                  <a href="{{ site.baseurl }}Persona_Nthabiseng.html" {% if currentpage == page.url %}class = "active"{% endif %}>Nthabiseng</a>
+                  <a href="{{ site.baseurl }}Persona_Nthabiseng.html" {% if page.url == "/Persona_Nthabiseng.html" %}class = "active"{% endif %}>Nthabiseng</a>
               </li>
           </ul>
         </li>
         <li>
-            <a href="{{ site.baseurl }}1_Process_the_data.html" {% if currentpage == page.url %}class = "active"{% endif %}>Process the data</a>
+            <a href="{{ site.baseurl }}1_Process_the_data.html" {% if page.url == "/1_Process_the_data.html" %}class = "active"{% endif %}>Process the data</a>
         </li>
         <li>
-            <a href="{{ site.baseurl }}2_Display_the_data.html" {% if currentpage == page.url %}class = "active"{% endif %}>Display the data</a>
+            <a href="{{ site.baseurl }}2_Display_the_data.html" {% if page.url == "/2_Display_the_data.html" %}class = "active"{% endif %}>Display the data</a>
         </li>
         <li>
-            <a href="{{ site.baseurl }}3_Display_data_from_file_online.html" {% if currentpage == page.url %}class = "active"{% endif %}>Display data in the browser</a>
+            <a href="{{ site.baseurl }}3_Display_data_from_file_online.html" {% if page.url == "/3_Display_data_from_file_online.html" %}class = "active"{% endif %}>Display data in the browser</a>
             <ul>
                 <li>
-                    <a href="{{ site.baseurl }}Deploy_online_101.html" {% if currentpage == page.url %}class = "active"{% endif %}>Deploy online 101</a>
+                    <a href="{{ site.baseurl }}Deploy_online_101.html" {% if page.url == "/Deploy_online_101.html" %}class = "active"{% endif %}>Deploy online 101</a>
                 </li>
             </ul>
         </li>
         <li>
-            <a href="{{ site.baseurl }}4_Database_setup.html" {% if currentpage == page.url %}class = "active"{% endif %}>Data beyond a CSV</a>
+            <a href="{{ site.baseurl }}4_Database_setup.html" {% if page.url == "/4_Database_setup.html" %}class = "active"{% endif %}>Data beyond a CSV</a>
         </li>
         <li>
-            <a href="{{ site.baseurl }}5_Web_app_basics.html" {% if currentpage == page.url %}class = "active"{% endif %}>Manage data online</a>
+            <a href="{{ site.baseurl }}5_Web_app_basics.html" {% if page.url == "/5_Web_app_basics.html" %}class = "active"{% endif %}>Manage data online</a>
             <ul>
                 <li>
-                    <a href="{{ site.baseurl }}Deploy_online_201.html" {% if currentpage == page.url %}class = "active"{% endif %}>Deploy online 201</a>
+                    <a href="{{ site.baseurl }}Deploy_online_201.html" {% if page.url == "/Deploy_online_201.html" %}class = "active"{% endif %}>Deploy online 201</a>
                 </li>
             </ul>
         </li>
         <li>
-            <a href="{{ site.baseurl }}6_Deploy_roles_login.html" {% if currentpage == page.url %}class = "active"{% endif %}>Who can do what?</a>
+            <a href="{{ site.baseurl }}6_Deploy_roles_login.html" {% if page.url == "/6_Deploy_roles_login.html" %}class = "active"{% endif %}>Who can do what?</a>
         </li>
         <li>
-            <a href="{{ site.baseurl }}7_Search_and_filter.html" {% if currentpage == page.url %}class = "active"{% endif %}>Where's my data?</a>
-        </li>
-        <li>
-            <a href="{{ site.baseurl }}#" {% if currentpage == page.url %}class = "active"{% endif %}>Cleaner code</a>
+            <a href="{{ site.baseurl }}7_Search_and_filter.html" {% if page.url == "/7_Search_and_filter.html" %}class = "active"{% endif %}>Where's my data?</a>
         </li>
     </ul>
   </nav>
