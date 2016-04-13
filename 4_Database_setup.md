@@ -15,17 +15,17 @@ Import weekly sales & purchases files into [MySQL using NodeJS](https://www.npmj
 
 Add support for showing the Products, Categories, Sales and Purchases from the database in a web browser.
 
-Learn more about databases [here](http://database.projectcodex.co)
+Learn more about databases here: [database.projectcodex.co](http://database.projectcodex.co)
 
 # Learning areas
 
-* setup MySQL;
-* model your first Database;
-* create tables and relationships using a [SQL script](http://database.projectcodex.co/steps/running_sql_scripts.html) file;
-* add data to a table using a [SQL script](http://database.projectcodex.co/steps/running_sql_scripts.html);
-* [bulk insert](http://database.projectcodex.co/steps/mysql_bulk_insert_using_nodejs) data into MySQL tables;
+* setting up MySQL;
+* modelling your first Database;
+* creating tables and relationships using a [SQL script](http://database.projectcodex.co/steps/running_sql_scripts.html) file;
+* adding data to a table using a [SQL script](http://database.projectcodex.co/steps/running_sql_scripts.html);
+* [bulk inserting](http://database.projectcodex.co/steps/mysql_bulk_insert_using_nodejs) data into MySQL tables;
 * using foreign keys;
-* display data from a Database in a web browser using Express JS.
+* displaying data from a Database in a web browser using Express JS.
 
 # Modules to install
 
