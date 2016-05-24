@@ -20,10 +20,10 @@ Create:
 
 ## Separate template files
 
-Inline handlebar templates become cumbersome quickly. A way around that is to store them in separate files and use the `fs` module to read the templates from disk.
+Inline Handlebars templates become cumbersome quickly. A way around that is to store them in separate files and use the `fs` module to read the templates from disk.
 
 ## Learning areas
 
-* Templating using handlebars with NodeJS.
+* Templating using Handlebars with NodeJS.
 * Creating files with the `fs` module.
-* Storing and using handlebar templates in separate files using the `fs` module.
+* Storing and using Handlebars templates in separate files using the `fs` module.
