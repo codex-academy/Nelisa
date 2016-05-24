@@ -11,16 +11,16 @@ Read about the background at [narrative.projectcodex.co](http://narrative.projec
 
 Nelisa would like to to determine:
 
-* The most popular product sold weekly
-* The least popular product sold weekly
-* The most popular category sold weekly
-* The least popular category sold weekly
+* The most popular product sold each week;
+* The least popular product sold each week;
+* The most popular category sold each week;
+* The least popular category sold each week.
 
 She is also been keeping track of the products she bought each week.
 
 She would also like to calculate:
 
-* The most profitable product for each week.
+* The most profitable product for each week;
 * The most profitable category for each week.
 
 Write a program that reads the files for each week and print the results to the screen in a format that can easily be sms'ed to her.
