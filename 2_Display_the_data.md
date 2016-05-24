@@ -9,9 +9,8 @@ title: Display the data
 
 Publish the sales report online using [GitHub Pages](https://pages.github.com/). Use your Nelisa repository. The URL will be something like `http://username.github.io/repository`.
 
-Create HTML reports using [Handlebars](https://www.npmjs.com/package/handlebars) templates to convert the data into HTML files which can be published online.
+[Handlebars](https://www.npmjs.com/package/handlebars) templates and layouts can be combined with data to produce HTML files (and other things).
 
-Handlebars combine data with a predefined layout/template to make it easy to create HTML (for example). To create HTML files from the strings created by handlebars, use NodeJS's `fs` module to create files on disk. Create a `.html` file for each week's statistics. Create a homepage called `index.html` that links to each week's file.
 
 ## Separate template files
 
