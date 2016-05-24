@@ -3,6 +3,8 @@ layout: default
 title: Process the data
 ---
 
+Read about the background at [narrative.projectcodex.co](http://narrative.projectcodex.co/).
+
 # Process the data
 
 > Nelisa has some weekly records of her sales. She would like to analyze the data to understand her business better.
