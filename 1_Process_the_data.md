@@ -25,11 +25,11 @@ Write a program that reads the files for each week and print the results to the 
 
 ## Here's the data
 
-* [week1](/csv-files/week1.csv)
-* [week2](/csv-files/week2.csv)
-* [week3](/csv-files/week3.csv)
-* [week4](/csv-files/week4.csv)
-* [purchases](/csv-files/purchases.csv)
+* [week1.csv](/csv-files/week1.csv)
+* [week2.csv](/csv-files/week2.csv)
+* [week3.csv](/csv-files/week3.csv)
+* [week4.csv](/csv-files/week4.csv)
+* [purchases.csv](/csv-files/purchases.csv)
 
 ## Remember to
 
