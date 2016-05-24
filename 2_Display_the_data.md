@@ -11,6 +11,12 @@ Publish the sales report online using [GitHub Pages](https://pages.github.com/).
 
 [Handlebars](https://www.npmjs.com/package/handlebars) templates and layouts can be combined with data to produce HTML files (and other things).
 
+Create:
+
+* HTML reports using Handlebars templates;
+* HTML files from the strings created by Handlebars by using Node JS's `fs` module to create files on disk;
+* a `.html` file for each week's statistics;
+* a homepage called `index.html` that links to each week's file.
 
 ## Separate template files
 
