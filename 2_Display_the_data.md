@@ -7,18 +7,23 @@ title: Display the data
 
 > Nelisa wants a comprehensive weekly online sales report.
 
-Publish the sales report online using [GitHub Pages](https://pages.github.com/).
+Publish the sales report online using [GitHub Pages](https://pages.github.com/). Use your Nelisa repository. The URL will be something like `http://username.github.io/repository`.
 
-Create HTML reports using [Handlebars](https://www.npmjs.com/package/handlebars) templates to convert the data into HTML files which can be published online.
+[Handlebars](https://www.npmjs.com/package/handlebars) templates and layouts can be combined with data to produce HTML files (and other things).
 
-Handlebars combine data with a predefined layout/template to make it easy to create HTML (for example). To create HTML files from the strings created by handlebars, use NodeJS's `fs` module to create files on disk. Create a `.html` file for each week's statistics. Create a homepage called `index.html` that links to each week's file.
+Create:
+
+* HTML reports using Handlebars templates;
+* HTML files from the strings created by Handlebars by using Node JS's `fs` module to create files on disk;
+* a `.html` file for each week's statistics;
+* a homepage called `index.html` that links to each week's file.
 
 ## Separate template files
 
-Inline handlebar templates become cumbersome quickly, a way around that is to store them in seperate files and use the `fs` module to read the templates from disk.
+Inline Handlebars templates become cumbersome quickly. A way around that is to store them in separate files and use the `fs` module to read the templates from disk.
 
 ## Learning areas
 
-* templating using handlebars with NodeJS;
-* creating files with the `fs` module;
-* storing and using handlebar templates in separate files using the `fs` module.
+* Templating using Handlebars with NodeJS.
+* Creating files with the `fs` module.
+* Storing and using Handlebars templates in separate files using the `fs` module.
