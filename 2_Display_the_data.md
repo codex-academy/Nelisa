@@ -7,7 +7,7 @@ title: Display the data
 
 > Nelisa wants a comprehensive weekly online sales report.
 
-Publish the sales report online using [GitHub Pages](https://pages.github.com/).
+Publish the sales report online using [GitHub Pages](https://pages.github.com/). Use your Nelisa repository. The URL will be something like `http://username.github.io/repository`.
 
 Create HTML reports using [Handlebars](https://www.npmjs.com/package/handlebars) templates to convert the data into HTML files which can be published online.
 
