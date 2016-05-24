@@ -5,11 +5,10 @@ title: Display data from files
 
 # Display data from files online
 
-> Nelisa wants a more up to date weekly online sales report, this report should update when the weekly file changes.
+> Nelisa wants weekly reports that update every day.
 
-Create a web application with a route like `/sales/:week_name` to display sales for a given week. Sales should be read from the `<week_name>.csv` file which should be updated daily. The updated sales data should be visible immediately after the sales file changed.
-
-> `week_name` - is variable name - a route looks like this `/sales/week1`
+* Create a web application with a route like `/sales/:week_name` to display sales for a given week. `:week_name` is a variable: the route would look like this `/sales/week1`.
+* Sales should be read from the `<week_name>.csv` file, which should be updated daily. The updated sales data should be visible immediately after the sales file changed.
 
 # Learning areas
 
