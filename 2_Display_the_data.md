@@ -14,10 +14,10 @@ Publish the sales report online using [GitHub Pages](https://pages.github.com/).
 
 ## Separate template files
 
-Inline handlebar templates become cumbersome quickly, a way around that is to store them in seperate files and use the `fs` module to read the templates from disk.
+Inline handlebar templates become cumbersome quickly. A way around that is to store them in separate files and use the `fs` module to read the templates from disk.
 
 ## Learning areas
 
-* templating using handlebars with NodeJS;
-* creating files with the `fs` module;
-* storing and using handlebar templates in separate files using the `fs` module.
+* Templating using handlebars with NodeJS.
+* Creating files with the `fs` module.
+* Storing and using handlebar templates in separate files using the `fs` module.
