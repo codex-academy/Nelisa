@@ -7,9 +7,9 @@ Read about the background at [narrative.projectcodex.co](http://narrative.projec
 
 # Process the data
 
-> Nelisa has some weekly records of her sales. She would like to analyze the data to understand her business better.
+> Nelisa would like to analyze weekly records of her sales to understand her business better.
 
-Nelisa would like to use this data to determine:
+Nelisa would like to to determine:
 
 * The most popular product sold weekly
 * The least popular product sold weekly
@@ -25,7 +25,7 @@ She would also like to calculate:
 
 Write a program that reads the files for each week and print the results to the screen in a format that can easily be sms'ed to her.
 
-## Here's the data
+## The data
 
 * [week1.csv](/csv-files/week1.csv)
 * [week2.csv](/csv-files/week2.csv)
@@ -33,7 +33,7 @@ Write a program that reads the files for each week and print the results to the 
 * [week4.csv](/csv-files/week4.csv)
 * [purchases.csv](/csv-files/purchases.csv)
 
-## Remember to
+## Things to Remember
 
 * write unit tests using mocha;
 * modularize your code;
