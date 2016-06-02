@@ -22,4 +22,4 @@ Add support for:
 * using [middleware](http://auth.projectcodex.co/steps/middleware.html) to check :
     * if a user is logged in;
     * a user's roles;
-* how to use [bcrypt](https://www.npmjs.com/package/bcrypt) to encrypt user passwords.
+* how to use [bcrypt](https://www.npmjs.com/package/bcrypt) to encrypt passwords.
