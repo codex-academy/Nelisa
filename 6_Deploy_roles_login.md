@@ -12,7 +12,9 @@ Add support for:
 * User logins, only logged in users should be able to use the application;
 * user roles:
     * a read-only role - that can only see data;
-    * an admin role - that can see and add data;
+    * an admin role - that can see and add data.
+* a user management page where admin users can create users and manage user roles;
+* encrypted user passwords.
 
 ## Learning areas
 
@@ -20,4 +22,4 @@ Add support for:
 * using [middleware](http://auth.projectcodex.co/steps/middleware.html) to check :
     * if a user is logged in;
     * a user's roles;
-* how to use [bcrypt](https://www.npmjs.com/package/bcrypt) for encrypt user passwords.
+* how to use [bcrypt](https://www.npmjs.com/package/bcrypt) to encrypt passwords.
