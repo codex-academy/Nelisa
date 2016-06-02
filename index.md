@@ -9,21 +9,21 @@ Read about the background at [narrative.projectcodex.co](http://narrative.projec
 
 > Nelisa would like to analyze weekly records of her sales to understand her business better.
 
-Nelisa would like to to determine:
+Nelisa would like to find out:
 
-* The most popular product sold each week;
-* The least popular product sold each week;
-* The most popular category sold each week;
-* The least popular category sold each week.
+* the most popular product sold each week;
+* the least popular product sold each week;
+* the most popular category sold each week;
+* the least popular category sold each week.
 
 She is also been keeping track of the products she bought each week.
 
 She would also like to calculate:
 
-* The most profitable product for each week;
-* The most profitable category for each week.
+* the most profitable product for each week;
+* the most profitable category for each week.
 
-Write a program that reads the files for each week and print the results to the screen in a format that can easily be sms'ed to her.
+Write a program that reads the files for each week and print the results to the screen in a format that can be sms'ed to her.
 
 ## The data
 
@@ -35,7 +35,7 @@ Write a program that reads the files for each week and print the results to the 
 
 ## Things to Remember
 
-* write unit tests using mocha;
+* write unit tests using Mocha;
 * modularize your code;
 * write small focussed functions.
 

@@ -25,8 +25,8 @@ Learn more about databases here: [database.projectcodex.co](http://database.proj
 * adding data to a table using a [SQL script](http://database.projectcodex.co/steps/running_sql_scripts.html);
 * [bulk inserting](http://database.projectcodex.co/steps/mysql_bulk_insert_using_nodejs) data into MySQL tables;
 * using foreign keys;
-* displaying data from a Database in a web browser using Express JS.
+* displaying data from a Database in a web browser using Express.
 
 # Modules to install
 
-* Node module for [MySQL](https://www.npmjs.com/package/mysql) (to access MySQL from Node JS).
+* Node module for [MySQL](https://www.npmjs.com/package/mysql) (to access MySQL from Node.JS).

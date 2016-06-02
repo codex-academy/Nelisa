@@ -9,6 +9,6 @@ title: Search and filter
 
 # Learning areas
 
-* partial string database searching using `like` sql query;
+* partial string database searching using `like` SQL query;
 * using HTTP request parameters using `req.params` - dynamic data in roots;
 * introduction to using Ajax for a dynamic search experience.
