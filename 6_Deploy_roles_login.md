@@ -13,7 +13,7 @@ Add support for:
 * user roles:
     * a read-only role - that can only see data;
     * an admin role - that can see and add data.
-* a user management console where admin users can create users and manage user roles;
+* a user management page where admin users can create users and manage user roles;
 * encrypted user passwords.
 
 ## Learning areas
