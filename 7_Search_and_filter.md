@@ -9,7 +9,7 @@ title: Search and filter
 
 Create a search bar:
 
-* that works without JavaScript;
+* that always works, even if Javascript is disabled in the browser;
 * that uses JavaScript to display the search results after the user has typed three or more characters into the search box;
 
 Add a search bars to your Categories, Products, Sales and Purchases list screens.
