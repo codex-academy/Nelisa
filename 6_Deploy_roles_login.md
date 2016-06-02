@@ -12,7 +12,8 @@ Add support for:
 * User logins, only logged in users should be able to use the application;
 * user roles:
     * a read-only role - that can only see data;
-    * an admin role - that can see and add data;
+    * an admin role - that can see and add data.
+* a user management console where admin users can create users and manage user roles.
 
 ## Learning areas
 
