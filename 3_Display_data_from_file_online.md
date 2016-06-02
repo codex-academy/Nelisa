@@ -12,6 +12,6 @@ title: Display data from files
 
 # Learning areas
 
-* [ExpressJS basics](http://expressjs.projectcodex.co);
+* [Express basics](http://expressjs.projectcodex.co);
 * Creating [routes](http://expressjs.projectcodex.co/steps/routes.html) in Express;
 * Code reuse. Use modules you've already created.
