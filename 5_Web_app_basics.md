@@ -5,9 +5,10 @@ title: Create, read, update & delete database basics
 
 # Web application basics
 
+<!--codex ignore purchase-->
 > Nelisa needs data to be managed online with Sales and Purchase data captured online.
 
- Add support to Add, Delete and Update records for Products, Categories, Sales and Purchases in the database.
+Add support to Add, Delete and Update records for Products, Categories, Sales and Purchases in the database.
 
 # Learning areas
 
