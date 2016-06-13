@@ -23,6 +23,6 @@ Add support for:
 # Learning areas
 
 * queries using partial string matching using `like` SQL queries;
-* using HTTP [request parameters](http://expressjs.projectcodex.co/steps/routes.html/#routes-with-parameters) using `req.params`;
+* using HTTP [request parameters](http://expressjs.projectcodex.co/steps/routes.html#routes-with-parameters) using `req.params`;
 * introduction to Ajax for a dynamic search experience;
 * introduction to [Progressive Enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/) - the journey from a basic search to interactive search.
