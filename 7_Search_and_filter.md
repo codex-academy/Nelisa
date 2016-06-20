@@ -7,14 +7,13 @@ title: Search and filter
 
 > Nelisa needs to find sales data statistics quickly.
 
-Create a search bar:
+Create a search bar for your Products page. Once that's working, look at using client-side JavaScript to display the search results after the user has typed three or more characters into the search box.
 
-* that works without using any client-side JavaScript;
-* that uses JavaScript to display the search results after the user has typed three or more characters into the search box;
+Read more about searching and Ajax at [search.projectcodex.co](http://search.projectcodex.co/).
 
-Read more about searching at [search.projectcodex.co](http://search.projectcodex.co/).
+## Search more things
 
-Add search bars to your Categories, Products, Sales and Purchases list screens.
+Add search bars to your Categories, Sales, and Purchases pages.
 
 Add support for:
 
