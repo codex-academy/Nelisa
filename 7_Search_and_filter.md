@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Search and filter
-unitstandard: 115384-SO2-AC1, 115384-SO2-AC3, 115384-SO2-AC4, 115384-SO3-AC2
+unitstandard: 115384-SO2-AC1, 115384-SO2-AC3, 115384-SO2-AC4
 ---
 
 # Search and filter
