@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Create, read, update & delete database basics
+unitstandard: 115384-SO1-AC1, 115384-SO1-AC2, 115384-SO1-AC4
 ---
 
 # Web application basics
@@ -10,12 +11,16 @@ title: Create, read, update & delete database basics
 
 Add support to Add, Delete and Update records for Products, Categories, Sales and Purchases in the database.
 
+# Modules to install
+
+* [body-parser](https://www.npmjs.com/package/body-parser): making `req.body` work.
+
+# Testing
+
+Don't forget to write your code TDD-style and use the test user, password, and database.
+
 # Learning areas
 
 * using HTML forms;
 * storing data submitted via an HTML form in the database;
 * learning about `request` and `response` HTTP objects.
-
-# Modules to install
-
-* [body-parser](https://www.npmjs.com/package/body-parser): making `req.body` work.
