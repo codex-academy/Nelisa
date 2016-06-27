@@ -21,6 +21,10 @@ Add support for:
 * finding sales by product or category name;
 * finding purchases by product or category name.
 
+# Testing
+
+Make sure you write your code TDD-style.
+
 # Learning areas
 
 * queries using partial string matching using `like` SQL queries;
