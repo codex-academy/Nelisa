@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Deployment, roles and login
+unitstandard: 115384-SO1-AC1, 115384-SO1-AC2, 115384-SO1-AC3, 115384-SO1-AC4
 ---
 
 # Who can do what?
@@ -15,6 +16,17 @@ Add support for:
     * an admin role - that can see and add data.
 * a user management page where admin users can create users and manage user roles;
 * encrypted user passwords.
+
+# Testing
+
+* Make sure you're still doing TDD. Use your existing test user `nelisa_test_user` for the admin role. Add a new test user `nelisa_test_readonly_user`, with password `c1ph3r`, for the read-only role.
+* Testing **what can't be done** is sometimes as important as testing **what can be done**. Test that:
+  * admin role users can see and add data;
+  * admin roles users can create and manage user roles;
+  * read-only users can see data;
+  * read-only users can't add data;
+  * read-only users can't create and manage user roles.
+* You don't need to test that `bcrypt` works properly, but you do need to test that you are implementing it correctly.
 
 ## Learning areas
 
