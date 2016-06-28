@@ -25,15 +25,15 @@ Inline Handlebars templates become cumbersome quickly. A way around that is to s
 
 ## More with Mocha
 
-Mocha has several ways to display the data: [reporters](https://mochajs.org/#reporters). To see which reporters are available, run `mocha --reporters`. To use the `dot` reporter, for example, run `mocha --reporter dot` or `mocha --R dot`. Try a few out and see which one(s) you like.
+Mocha has several ways to display the data: [reporters](https://mochajs.org/#reporters). To see which reporters are available, run `mocha --reporters`. To use the `dot` reporter, for example, run `mocha --reporter dot` or `mocha -R dot`. Try a few out and see which one(s) you like.
 
 Now let's save a copy of the tests using the `markdown` reporter. Run a command something like this:
 
 ```
-mocha --R markdown > YYYYMMDD-results.md
+mocha -R markdown > YYYYMMDD-results.md
 ```
 
-This puts the result of `mocha --R markdown` into a file called `YYYYMMDD-results.md`.
+This puts the result of `mocha -R markdown` into a file called `YYYYMMDD-results.md`.
 
 ## Learning areas
 
