@@ -26,7 +26,7 @@ Add support for:
   * read-only users can see data;
   * read-only users can't add data;
   * read-only users can't create and manage user roles.
-* You don't need to test that `bcrypt` works properly, but you do need to test that you are implementing it correctly.
+* You don't need to test that `bcrypt` works properly, but you do need to test that you are implementing it correctly. Look at the password before and after you apply bcrypt to it and check that it's changed.
 
 ## Learning areas
 
