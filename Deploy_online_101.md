@@ -31,7 +31,7 @@ Deploy your Express application online using [Heroku](https://devcenter.heroku.c
 
 ## Testing
 
-Check the console output when you run `git push heroku master`. Where there any errors? Copy, Paste the output (and any notes on what you had to fix) to a new file, `YYYYMMDD-heroku.md`.
+Check the terminal output when you run `git push heroku master`. Where there any errors? If there were any errors: Copy, Paste them (and any notes on what you had to fix) to a new file in your repo called `YYYYMMDD-heroku.md`. You don't need to do this every time you push to Heroku.
 
 # Learning areas
 
