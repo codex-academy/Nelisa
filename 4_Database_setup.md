@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Data beyond a CSV
+unitstandard: 115384-SO1-AC1, 115384-SO1-AC2, 115384-SO1-AC4, 115384-SO3-AC2
 ---
 
 # Data beyond a CSV
@@ -11,6 +12,7 @@ title: Data beyond a CSV
 * Add Categories to the database using a [SQL script](http://database.projectcodex.co/steps/running_sql_scripts.html).
 * Import weekly sales & purchases files into [MySQL using NodeJS](https://www.npmjs.com/package/mysql), using [bulk insert](http://database.projectcodex.co/steps/mysql_bulk_insert_using_nodejs).
 * Add support for showing the Products, Categories, Sales and Purchases from the database in a web browser.
+* Take a copy of the file [`read.js`](http://nelisa.projectcodex.co/dalekjs/read.js) and run the tests. Extend the skeleton of the Categories page provided, and add new tests for Sales and Purchases.
 
 Learn more about databases at [database.projectcodex.co](http://database.projectcodex.co).
 
