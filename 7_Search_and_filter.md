@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Search and filter
+unitstandard: 115384-SO1-AC1, 115384-SO1-AC2, 115384-SO1-AC4, 115384-SO2-AC1, 115384-SO2-AC4, 115384-SO3-AC2
 ---
 
 # Search and filter
@@ -20,6 +21,26 @@ Add support for:
 * finding products by category name;
 * finding sales by product or category name;
 * finding purchases by product or category name.
+
+## Front-end testing
+
+Add some more DalekJS tests. You'll need some new methods like `type` and `submit`.
+
+Generate a report of your tests using Dalek's HTML reporter. Run
+
+```
+npm install dalek-reporter-html --save-dev
+```
+
+Then run all your tests with additional flags, like this:
+
+```
+dalek test/*.js -r console,html
+```
+
+Open the `index.html` in `report/dalek` to view a QUnit-style web page of your test results.
+
+
 
 # Learning areas
 
