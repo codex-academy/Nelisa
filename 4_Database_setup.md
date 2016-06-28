@@ -27,6 +27,8 @@ At the top of your test file, write some code that creates a database `nelisa_te
 
 You'll also need to add some test data into your test database. You don't need to add all of the Nelisa data: you just need to use enough data to check that your function works as you expect.
 
+Read up on [Mocha hooks](http://mochajs.org/#hooks) (`before()`, `after()`, `beforeEach()`, `afterEach()`) to help you with these tests.
+
 # Learning areas
 
 * setting up MySQL;
@@ -35,4 +37,5 @@ You'll also need to add some test data into your test database. You don't need t
 * adding data to a table using a [SQL script](http://database.projectcodex.co/steps/running_sql_scripts.html);
 * [bulk inserting](http://database.projectcodex.co/steps/mysql_bulk_insert_using_nodejs) data into MySQL tables;
 * using foreign keys;
-* displaying data from a Database in a web browser using Express.
+* displaying data from a Database in a web browser using Express;
+* using Mocha hooks.
