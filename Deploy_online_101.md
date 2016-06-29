@@ -11,7 +11,7 @@ The Heroku deployment process is built on top of git. To deploy there you need t
 
 **Please note:**
 
-* You applications `package.json` file's `dependencies` sections should contain all the modules your application depends on. So that Heroku knows which modules to install. Installing modules using `npm --save <module_name>` will keep your package.json up to date.
+* You applications `package.json` file's `dependencies` sections should contain all the modules your application depends on. So that Heroku knows which modules to install. Installing modules using `npm install --save <module_name>` will keep your package.json up to date.
 
 * The `dependencies` section of your application's `package.json` file should contain all the modules your application depends on; Heroku will use it to install your modules. When you're developing your application, installing modules using `npm install --save <module_name>`. This adds the module(s) to your package.json so that it's kept up to date.
 
