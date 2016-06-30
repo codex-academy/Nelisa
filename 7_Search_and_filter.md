@@ -24,7 +24,7 @@ Add support for:
 
 ## Front-end testing
 
-Add some more DalekJS tests. You'll need some new methods like `type` and `submit`.
+Add some more DalekJS tests. You'll need to add some new methods like `type` and `submit` in your DalekJS test code.
 
 Generate a report of your tests using Dalek's HTML reporter. Run
 
