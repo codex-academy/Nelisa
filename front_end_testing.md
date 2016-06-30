@@ -14,7 +14,7 @@ DalekJS is available as an npm package, which makes installation convenient for 
 Install the dalek-cli globally ([like we did for the Mocha cli](http://node.projectcodex.co/node-tutorial/index.html)).
 
 ```
-npm install dalek-cli -g
+sudo npm install dalek-cli -g
 ```
 
 Then install DalekJS locally for your app. Make sure you have a `package.json` before you do. If you don't, set one up now using the `npm init` command.
