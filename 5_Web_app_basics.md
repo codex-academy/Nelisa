@@ -19,6 +19,8 @@ Add support to Add, Delete and Update records for Products, Categories, Sales an
 
 Don't forget to write your code TDD-style and use the test user, password, and database.
 
+Have another look at the [User Experience](http://fefg.projectcodex.co/user-experience.html) of your web app. Use the principles there to review your app. Add a `ux-review.md` to your repo with the results of your review.
+
 # Learning areas
 
 * using HTML forms;

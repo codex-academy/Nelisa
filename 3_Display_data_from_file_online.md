@@ -20,4 +20,5 @@ Don't forget to write your code TDD-style. Write tests to check that each of the
 
 * [Express basics](http://expressjs.projectcodex.co);
 * Creating [routes](http://expressjs.projectcodex.co/steps/routes.html) in Express;
-* Code reuse. Use modules you've already created.
+* Code reuse. Use modules you've already created;
+* The [User Experience](http://fefg.projectcodex.co/user-experience.html) of (web) apps.
