@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Display the data
+unitstandard: 115384-SO2-AC1, 115384-SO2-AC3, 115384-SO2-AC4
 ---
 
 # Display the data
@@ -21,6 +22,18 @@ Create:
 ## Separate template files
 
 Inline Handlebars templates become cumbersome quickly. A way around that is to store them in separate files and use the `fs` module to read the templates from disk.
+
+## More with Mocha
+
+Mocha has several ways to display the data: [reporters](https://mochajs.org/#reporters). To see which reporters are available, run `mocha --reporters`. To use the `dot` reporter, for example, run `mocha --reporter dot` or `mocha -R dot`. Try a few out and see which one(s) you like.
+
+Now let's save a copy of the tests using the `markdown` reporter. Run a command something like this:
+
+```
+mocha -R markdown > YYYYMMDD-results.md
+```
+
+This puts the result of `mocha -R markdown` into a file called `YYYYMMDD-results.md`.
 
 ## Learning areas
 

@@ -40,7 +40,9 @@ dalek test/*.js -r console,html
 
 Open the `index.html` in `report/dalek` to view a QUnit-style web page of your test results.
 
+## Save your test results again
 
+Let's save a copy of your tests again. Have a look back at [More with Mocha](2_Display_the_data.html#more-with-mocha) if you need to.
 
 # Learning areas
 
