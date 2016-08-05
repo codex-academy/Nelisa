@@ -49,7 +49,7 @@ Now follow [this article, from "Hello World Code" downwards](https://www.digital
 
 ### Setup MySQL
 
-Setup MySQL on the server as per these [instructions](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04). Please note you **only** want to install MySQL at this stage.
+Setup MySQL on the server as per these [instructions](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04#step-2-install-mysql). Please note you **only** want to install MySQL at this stage.
 
 ### Deploy your application
 
