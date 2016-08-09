@@ -14,6 +14,8 @@ title: Data beyond a CSV
 
 Learn more about databases at [database.projectcodex.co](http://database.projectcodex.co).
 
+For this database section we're going to take a short break from writing tests. We'll come back and write tests for this section later, and talk about why we waited to write the tests.
+
 # Learning areas
 
 * setting up MySQL;
